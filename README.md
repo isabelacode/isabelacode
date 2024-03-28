@@ -16,6 +16,7 @@
 <h3>Você pode me encontrar aqui</h3>
 <p><a href="https://github.com/isabelacode" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
 </a> 
-</p>
-<a href="#" title="LinkedIn">
+
+<a href="https://www.linkedin.com/in/isabela-cristina-silveira-701238300/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isabela-cristina-silveira-701238300/" alt="LinkedIn"/></a>
+</p>

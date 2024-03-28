@@ -1,5 +1,5 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
-<h1>Bem vindo!</h1>
+<h1>Bem vindo(a)!</h1>
 <p> Sou Isabela, Técnica em informática  </p>
 <h3>Essas são as linguagens que eu já estudei</h3>
 <p>
@@ -14,7 +14,9 @@
 </p>
 
 <h3>Você pode me encontrar aqui</h3>
-<p><a href="https://github.com/isabelacode" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+<p><a href="https://github.com/isabelacode" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+</a> 
 </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-[isabela-cristina-silveira-701238300/]-blue?logo=linkedin)](https://www.linkedin.com/in/[isabela-cristina-silveira-701238300/])
 
 

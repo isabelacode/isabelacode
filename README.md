@@ -1,9 +1,6 @@
 <!-- Ilustração do computador -->
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" 
-     alt="ilustração de um computador" 
-     width="400px" 
-     align="right" />
-
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<div align="left">
 <!-- Texto animado -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=10&color=F037FF&width=435&lines=Bem+vindo(a)!;Isabela+Cristina" 
@@ -44,5 +41,5 @@
   </a>
 
 </p>
-
+</div>
 

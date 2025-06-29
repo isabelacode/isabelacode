@@ -6,11 +6,8 @@
 
 
 <div align="left">
-<!-- Texto animado -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=10&color=F037FF&width=435&lines=Bem+vindo(a)!;Isabela+Cristina" 
-       alt="Typing SVG" />
-</a>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=10&color=F037FF&width=435&lines=Bem+vindo(a)!;Isabela+Cristina"  alt="Typing SVG" />
 
 <!-- Informações acadêmicas -->
 <div style="text-align: left; padding: 20px 0;">

@@ -38,7 +38,7 @@
   <a href="mailto:isabelacristinasilveira1@gmail.com" title="Gmail">
     <img src="https://img.shields.io/badge/Gmail-FF0000?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://portfolio-isabela-cristinas-projects.vercel.app/" target="_blank">
+  <a href="https://portfolio-isabelacode.vercel.app//" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-%23F037FF?style=flat-square&logo=vercel&logoColor=white" alt="Portfólio" />
   </a>
 

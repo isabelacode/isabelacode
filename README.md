@@ -31,7 +31,7 @@
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E?style=flat-square&logo=github&logoColor=white" />
   </a>
 
-  <a href="https://www.linkedin.com/in/isabela-cristina-silveira/" target="_blank">
+  <a href="https://www.linkedin.com/in/isabelacode/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 

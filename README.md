@@ -12,18 +12,23 @@
 <!-- Informações acadêmicas -->
 <div style="text-align: left; padding: 20px 0;">
   <ul>
-    <li>💻 <strong>Técnica</strong> em Informática - IFTM</li>
-    <li>🎓 <strong>Graduanda</strong> em Ciências da Computação - UNIUBE</li>
+    <li> <strong>Técnica</strong> em Informática - IFTM</li>
+    <li> <strong>Graduanda</strong> em Ciências da Computação - UNIUBE</li>
   </ul>
 </div>
 
 <!-- Link do portfólio -->
 
 
-<!-- Linguagens mais usadas -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelacode&theme=radical&show_icons=true&hide_border=true&layout=compact" 
-     alt="Top Languages" />
 
+<h3>Tecnologias</h3>
+
+
+<p>
+  <img 
+    src="https://skillicons.dev/icons?i=react,js,ts,html,css,nodejs,git,figma,go,python,java&theme=dark&perline=6" 
+  />
+</p>
 <!-- Contato e redes sociais -->
 <h3>Para mais informações:</h3>
 <p>
